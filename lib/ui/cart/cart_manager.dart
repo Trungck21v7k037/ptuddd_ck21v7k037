@@ -3,6 +3,7 @@ import 'package:flutter/foundation.dart';
 import '../../models/cart_item.dart';
 import '../../models/product.dart';
 
+
 class CartManager with ChangeNotifier {
   final Map<String, CartItem> _items = {
     'p1': CartItem(
