@@ -11,6 +11,7 @@ class CartItem {
     required this.price,
   });
 
+
   CartItem copyWith({
     String? id,
     String? title,
