@@ -8,6 +8,7 @@ class TopRightBadge extends StatelessWidget {
     this.color,
   });
 
+
   final Widget child;
   final Object data;
   final Color? color;
