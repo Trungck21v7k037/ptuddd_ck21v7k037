@@ -10,6 +10,7 @@ class ProductGridTile extends StatelessWidget {
     super.key,
   });
 
+
   final Product product;
 
   @override
